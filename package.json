@@ -1,0 +1,22 @@
+{
+  "name": "seq",
+  "version": "1.1.1",
+  "description": "Testing Application with Sequelize",
+  "main": "index",
+  "scripts": {
+    "test": "NA"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NA"
+  },
+  "keywords": [
+    "NA"
+  ],
+  "author": "Mukesh Nayak",
+  "license": "ISC",
+  "dependencies": {
+    "sequelize": "^5.10.2",
+    "tedious": "^6.2.0"
+  }
+}
